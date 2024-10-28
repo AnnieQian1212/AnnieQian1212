@@ -19,7 +19,7 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)) -->
 
-[![Glitch's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnnieQian1212&theme=dracula)](https://github.com/AnnieQian1212/github-readme-activity-graph)
+[![Annie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnnieQian1212&theme=dracula)](https://github.com/AnnieQian1212/github-readme-activity-graph)
 
 <!-- <div style="text-align: center;">
     <a href="https://git.io/streak-stats">
