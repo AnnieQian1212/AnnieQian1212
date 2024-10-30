@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&duration=3000&pause=300&color=E7DFE8&width=435&lines=Hi%2C+this+is+Annie+%3A+%29;You+believe+in+soul+fleeing+from+servitude%3F)](https://git.io/typing-svg)
 
----
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <a href="https://github.com/AnnieQian1212/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=AnnieQian1212&count_private=true&show_icons=true&theme=dracula" alt="Annie's GitHub stats" style="max-height: 200px;"/>
@@ -17,12 +15,8 @@
     </a>
 </div>
 
----
-
 # Personal Website
 https://annieqian1212.github.io/
-
----
 
 # Blog
 
