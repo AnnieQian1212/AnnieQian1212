@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&duration=3000&pause=300&color=E7DFE8&width=435&lines=Hi%2C+this+is+Annie+%3A+%29;You+believe+in+soul+fleeing+from+servitude%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=hi%2C+this+is+annie)](https://git.io/typing-svg)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <a href="https://github.com/AnnieQian1212/github-readme-stats">
