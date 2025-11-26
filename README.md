@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=hi%2C+this+is+annie)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <a href="https://github.com/AnnieQian1212/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=AnnieQian1212&count_private=true&show_icons=true&theme=dracula" alt="Annie's GitHub stats" style="max-height: 200px;"/>
     </a>
@@ -13,7 +13,7 @@
     <a href="https://github.com/AnnieQian1212/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=AnnieQian1212&theme=dracula" alt="trophy"/>
     </a>
-</div>
+</div> -->
 
 <!--# Personal Website
 https://annieqian1212.github.io/
